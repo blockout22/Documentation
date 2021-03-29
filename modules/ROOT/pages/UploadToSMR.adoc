@@ -136,6 +136,7 @@ Example data.json:
 	],
 	"Plugins": [
 		{
+			"Enabled": true,
 			"Name": "DependingMod",
 			"SemVersion": "^1.3.0",
 			"bIsOptional": false
